@@ -41,7 +41,7 @@ Check the output
 
 The scraped profile content will be saved as a .txt file in the project directory.
 
-##📌 Note
+## 📌 Note
 This project is for educational and research purposes only.
 
 Avoid overusing automation on LinkedIn to prevent account restrictions.
