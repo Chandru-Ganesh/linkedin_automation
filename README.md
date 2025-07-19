@@ -26,25 +26,6 @@ This is a **Python-based LinkedIn automation tool** that:
 
 ---
 
-## 📂 Project Structure
-
-linkedin_automation/
-├── requirements.txt
-
-└── app/
-├── main.py # Entry point (FastAPI app)
-├── routers/
-│ └── linkedin.py # API endpoint logic
-├── services/
-│ └── linkedin_bot.py # LinkedIn bot automation logic
-├── sessions/
-│ └── session_manager.py # Manages session state
-└── utils/
-└── wait_utils.py # Smart waiting functions
-
-
----
-
 ## 🧪 Prerequisites
 
 - Python 3.9+
