@@ -30,6 +30,7 @@ This is a **Python-based LinkedIn automation tool** that:
 
 linkedin_automation/
 ├── requirements.txt
+
 └── app/
 ├── main.py # Entry point (FastAPI app)
 ├── routers/
