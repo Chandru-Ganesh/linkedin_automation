@@ -29,6 +29,7 @@ This is a **Python-based LinkedIn automation tool** that:
 ## 📂 Project Structure
 
 linkedin_automation/
+
 ├── requirements.txt
 └── app/
 ├── main.py # Entry point (FastAPI app)
